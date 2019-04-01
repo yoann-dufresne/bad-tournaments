@@ -1,0 +1,23 @@
+{
+  "name": "bad-tournaments",
+  "version": "1.0.0",
+  "description": "retrive the french badminton tournaments and notify the owner of the code",
+  "main": "main.js",
+  "dependencies": {
+    "node-html-parser": "^1.1.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoann-dufresne/bad-tournaments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoann-dufresne/bad-tournaments/issues"
+  },
+  "homepage": "https://github.com/yoann-dufresne/bad-tournaments#readme"
+}
